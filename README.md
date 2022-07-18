@@ -30,7 +30,7 @@
   </a>
 </p>
 
-<h4> alos </h4>
+<h4> Also </h4>
 <p>
    <a>
     <img alt="php" src="https://user-images.githubusercontent.com/105708108/179523730-026d0359-4e78-4bf4-a00e-c78ce04f2889.png" width="40" height="40"/>
