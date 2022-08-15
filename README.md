@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Mark
 - I'm a Full Stack Developer.
 
-- 👀 I'm Like to learn new things, technologies, grow in the software development 
+- 👀 I'm like to learn new things such as software, technologies, and grow in the software development 
 
 
 ## Laguages and Tools 
