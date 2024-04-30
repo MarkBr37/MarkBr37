@@ -1,11 +1,9 @@
 # 👋 Hi, I’m Mark
-- I'm a Full Stack Developer.
 
-- 👀 I'm like to learn new things such as software, technologies, and grow in the software development 
+- 👀 Love to learn new things such as software, technologies, and grow in the software development 
 
 
 ## Laguages and Tools 
- <h4> My top skills </h4>
 <p>
 
   <a href="https://reactjs.org/">
@@ -32,8 +30,6 @@
     <img alt="css" src="https://user-images.githubusercontent.com/105708108/179493920-a06948f9-7a89-4c87-a741-0b1c3366e41d.png" width="40" height="40"/>
   </a>
 </p>
-
-<h4> Also </h4>
 <p>
    <a href="https://www.php.net/">
     <img alt="php" src="https://user-images.githubusercontent.com/105708108/179523730-026d0359-4e78-4bf4-a00e-c78ce04f2889.png" width="40" height="40"/>
